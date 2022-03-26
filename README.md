@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SudoCatJ4v1
-- 👀 I’m interested in CiberSecurity
+- 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning microcomputer systems and networks
 
 <!---
